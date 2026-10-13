@@ -1,0 +1,12 @@
+# Compiled Go executables
+*.exe
+*.test
+*.out
+
+# Build output directories
+bin/
+dist/
+
+# Editor and operating-system files
+*~
+.DS_Store
